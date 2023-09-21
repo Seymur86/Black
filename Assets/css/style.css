@@ -1,0 +1,89 @@
+@import url('./reset.css');
+@import url('../font/font.css');
+@import url('./backgorund.css');
+@import url('./color.css');
+@import url('./margin.css');
+@import url('./padding.css');
+@import url('./display.css');
+@import url('./text.css');
+@import url('./size.css');
+
+.center {
+    gap: 40px;
+}
+
+.center-image a,
+.center-image a span {
+    border-bottom: 2px solid #e85853
+}
+
+.extra {
+    gap: 30px;
+}
+
+.extra-final {
+    gap: 30px;
+}
+
+.extra-price {
+    gap: 30px;
+}
+
+.extra-price-line {
+    gap: 30px;
+}
+
+.menu {
+    gap: 30px;
+}
+
+.menu-line {
+    position: relative;
+    bottom: 20px;
+}
+
+.menu-line-a {
+    position: relative;
+    bottom: 30px;
+}
+
+.empty {
+    gap: 20px;
+}
+
+.total-boxes {
+    gap: 30px;
+}
+
+.final-box-first {
+    gap: 30px;
+}
+
+.final-line-more {
+    position: relative;
+    bottom: 30px;
+}
+
+.foot {
+    gap: 30px;
+}
+
+.social {
+    gap: 50px;
+}
+
+.icon {
+    gap: 10px;
+}
+
+footer {
+    gap: 30px;
+}
+
+.foot-social {
+    gap: 30px;
+}
+
+.network {
+    border-radius: 50%;
+}

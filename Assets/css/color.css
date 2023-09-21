@@ -1,0 +1,61 @@
+.main-header a,
+.center-black span,
+.main-pink span,
+.center span,
+.center-image a,
+.center-image a span,
+.extra-price span,
+.extra-price h3,
+.menu-one span,
+.menu a,
+.menu a span,
+.empty span,
+.empty h3,
+.final-box-first h2,
+.final-box-first strong,
+.final-box-first a,
+.final-box-first a span,
+.foot span,
+.foot h3 {
+    color: #e85853;
+}
+
+.navigation a,
+.main-pink h2,
+.main-pink span,
+.extra-final a,
+.extra-final a span {
+    color: #000000;
+}
+
+.center-black h1,
+.center-black span,
+.main-pink h1,
+.main-pink h2,
+.center-image a span,
+.extra-final p,
+.extra-final a span,
+.extra-price h2,
+.menu a span,
+.empty h2,
+.final-box-first span,
+.final-box-first a span,
+.foot h2,
+.foot span {
+    color: #ffffff;
+}
+
+.center-image p,
+.menu-one h2,
+.final-box-first p {
+    color: #bcbcbc;
+}
+
+.icon span {
+    color: #666666;
+}
+
+footer h2,
+footer marquee {
+    color: #777777;
+}

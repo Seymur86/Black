@@ -1,0 +1,114 @@
+.image,
+.menu {
+    margin-top: 50px;
+}
+
+.main-header,
+.image,
+.main-section,
+.main-pink,
+.main-price,
+.empty,
+.final-image,
+.foot,
+footer,
+.container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-header img {
+    margin-left: 400px;
+}
+
+.center {
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+
+.left-line,
+.right-line {
+    margin-top: 40px;
+}
+
+.left-line {
+    margin-left: 40px;
+}
+
+.center span,
+.main-pink span,
+.extra-pink h1,
+.center-line-left,
+.center-line-right,
+.extra span,
+.menu a,
+.menu a span,
+.final-box-first img {
+    margin-top: 30px;
+}
+
+center-image p,
+.extra-final-line,
+.menu-line {
+    margin-left: 30px;
+}
+
+.center-image a span {
+    margin-left: -10px;
+}
+
+.extra-final {
+    margin: 30px 30px;
+}
+
+.extra-final p {
+    margin: 50px 30px;
+}
+
+.extra-final a,
+.extra-final a span {
+    margin-left: 50px;
+}
+
+.extra-final a span {
+    margin-left: 5px;
+}
+
+.extra-final-line,
+.extra-line-left,
+.extra-line-right {
+    margin-top: 10px;
+}
+
+.extra-price h2,
+.empty {
+    margin-top: 60px;
+}
+
+.menu {
+    margin-bottom: 80px;
+}
+
+.menu-one {
+    margin-left: 80px;
+}
+
+.menu-one span {
+    margin-left: 260px;
+}
+
+.menu-line-a {
+    margin-left: 180px;
+}
+
+.empty h3 {
+    margin-top: 2px;
+}
+
+.icon .location {
+    margin-top: 50px;
+}
+
+.foot-social {
+    margin-left: 200px;
+}

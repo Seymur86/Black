@@ -1,0 +1,30 @@
+body {
+    background-image: url('../img/background.jpg');
+}
+
+.main-header,
+.center-black,
+.center-line-left,
+.center-line-right,
+.extra-final-line,
+.main-price,
+.foot,
+footer {
+    background-color: black;
+}
+
+.navigation,
+.left-line,
+.right-line,
+.main-pink,
+.extra-line-left,
+.extra-line-right,
+.menu-line-a,
+.final-line-more,
+.network {
+    background-color: rgb(232, 88, 83);
+}
+
+.menu-line {
+    background-color: #bcbcbc;
+}

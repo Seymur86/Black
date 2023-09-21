@@ -1,0 +1,49 @@
+.navigation ul li {
+    padding: 20px 15px;
+}
+
+.center-black {
+    padding: 70px 20px;
+}
+
+.center-image p {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.center-image a,
+.center-image a span {
+    padding: 8px 20px;
+}
+
+.extra-price span {
+    padding: 10px;
+}
+
+.menu a,
+.menu a span {
+    padding: 8px 5px;
+}
+
+.final-box-first a,
+.final-box-first a span {
+    padding: 8px 10px;
+}
+
+.foot {
+    padding: 50px 30px;
+}
+
+.network {
+    padding-left: 15px;
+    padding-top: 17px;
+}
+
+footer h2,
+footer marquee {
+    padding-bottom: 10px;
+}
+
+.container {
+    padding-bottom: 130px;
+}

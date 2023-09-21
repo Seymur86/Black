@@ -1,0 +1,136 @@
+.image {
+    width: 700px;
+    height: 20px;
+}
+
+.image img {
+    width: 700px;
+}
+
+.main-header {
+    width: 700px;
+    height: 80px;
+}
+
+.main-header img {
+    width: 120px;
+    height: 80px;
+}
+
+.main-section {
+    width: 700px;
+    height: auto;
+}
+
+.center-black {
+    width: 700px;
+    height: auto;
+}
+
+.left-line,
+.right-line {
+    width: 50px;
+    height: 2px;
+}
+
+.center-image p {
+    width: 600px;
+}
+
+.main-pink {
+    width: 700px;
+    height: auto;
+}
+
+.center-line-left,
+.center-line-right {
+    width: 50px;
+    height: 2px;
+}
+
+.extra-final p {
+    width: 280px;
+    height: auto;
+}
+
+.extra-final-line {
+    width: 150px;
+    height: 2px;
+}
+
+.main-price {
+    width: 700px;
+    height: auto;
+}
+
+.extra-line-left,
+.extra-line-right {
+    width: 60px;
+    height: 4px;
+}
+
+.menu-one h2 {
+    width: 250px;
+}
+
+.menu-line {
+    width: 630px;
+    height: 1px;
+}
+
+.menu-line-a {
+    width: 330px;
+    height: 2px;
+}
+
+.empty {
+    width: 700px;
+    height: auto;
+}
+
+.final-image {
+    width: 700px;
+    height: 20px;
+}
+
+.final-image img {
+    width: 700px;
+}
+
+.final-box-first {
+    width: 300px;
+    height: auto;
+}
+
+.final-box-first img {
+    width: 300px;
+    height: 200px;
+}
+
+.final-line-more {
+    width: 140px;
+    height: 1px;
+}
+
+.foot {
+    width: 700px;
+    height: auto;
+}
+
+footer {
+    width: 700px;
+    height: auto;
+}
+
+.network {
+    width: 50px;
+    height: 50px;
+}
+
+.container {
+    width: 700px;
+}
+
+.container img {
+    width: 100%;
+}

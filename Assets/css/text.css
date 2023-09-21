@@ -1,0 +1,125 @@
+.main-header a,
+.menu-one h2 {
+    text-align: left;
+}
+
+.main-header a,
+.navigation a,
+.center-black,
+.center span,
+.main-pink span,
+.center-image a,
+.center-image a span,
+.extra-final a,
+.extra-final a span,
+.extra-price h2,
+.extra-price span,
+.extra-price h3,
+.menu a,
+.menu a span,
+.empty h2,
+.empty span,
+.final-box-first a,
+.final-box-first a span,
+.foot h2,
+.foot span,
+footer h2,
+footer marquee {
+    text-transform: uppercase;
+}
+
+.main-header a {
+    line-height: 16px;
+}
+
+.navigation a,
+.center-black h1,
+.center-black span,
+.main-pink h1,
+.main-pink h2,
+.main-pink span,
+.center-image,
+.center-image p,
+.center-image a,
+.center-image a span,
+.extra-price h3,
+.menu a,
+.menu a span,
+.empty h2,
+.empty span,
+.final-box-first h2,
+.final-box-first p,
+.final-box-first strong,
+.final-box-first span,
+.final-box-first a,
+.final-box-first a span,
+.foot h2,
+.foot span,
+.icon span,
+footer h2,
+footer marquee {
+    text-align: center;
+}
+
+.extra-final p,
+.center-image p {
+    text-transform: capitalize;
+}
+
+.center-image p,
+.foot h2,
+.foot span {
+    line-height: 30px;
+}
+
+.navigation a,
+.center-image a,
+.center-image a span,
+.extra-final a,
+.extra-final a span,
+.menu a,
+.menu a span,
+.final-box-first a,
+.final-box-first a span {
+    line-height: 20px;
+}
+
+
+.center-black h1,
+.center-black span,
+.main-pink h1,
+.main-pink h2,
+.extra-price span,
+.extra-price h2,
+.empty h2,
+.empty span {
+    line-height: 46px;
+}
+
+.center span,
+.main-pink span,
+.extra-price h3 {
+    line-height: 24px;
+}
+
+.menu-one h2,
+.menu-one span {
+    line-height: 22px;
+}
+
+.menu-one span {
+    text-align: right;
+}
+
+.final-box-first h2,
+footer h2,
+footer marquee {
+    line-height: 26px;
+}
+
+.final-box-first p,
+.final-box-first strong,
+.final-box-first span,
+.icon span {
+    line-height: 28px;
+}

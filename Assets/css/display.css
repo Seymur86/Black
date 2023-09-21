@@ -1,0 +1,53 @@
+.main-header,
+.main-section,
+.navigation ul,
+.center-black,
+.center,
+.main-pink,
+.extra-pink,
+.extra,
+.extra-final,
+.extra-final-box,
+.main-price,
+.extra-price,
+.extra-price-line,
+.menu,
+.menu-one,
+.empty,
+.total-boxes,
+.final-box-first,
+.foot,
+.social,
+.icon,
+footer,
+.foot-social {
+    display: flex;
+}
+
+.main-section,
+.center-black,
+.main-pink,
+.extra-pink,
+.extra-final-box,
+.main-price,
+.extra-price,
+.menu,
+.empty,
+.final-box-first,
+.foot,
+.icon,
+footer {
+    flex-direction: column;
+}
+
+.main-header,
+.navigation ul,
+.extra,
+.extra-price,
+.empty,
+.final-box-first,
+.foot,
+.icon {
+    align-items: center;
+    justify-content: center;
+}
